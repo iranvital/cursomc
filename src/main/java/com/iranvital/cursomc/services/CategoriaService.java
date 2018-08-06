@@ -5,8 +5,8 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import com.iranvital.cursomc.domain.Categoria;
 import com.iranvital.cursomc.repositories.CategoriaRepository;
-import com.iranvital.cursomc.resources.domain.Categoria;
 
 @Service
 public class CategoriaService {
