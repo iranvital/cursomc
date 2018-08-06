@@ -7,5 +7,7 @@ import com.iranvital.cursomc.domain.Categoria;
 
 @Repository
 public interface CategoriaRepository extends JpaRepository<Categoria, Integer> {
+	
+	
 
 }
